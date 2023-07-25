@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BlazingXavier
+- 👋 Hi, I’m @Abhishek Singh.
 - 👀 I’m interested in Front-end development, Python and space technologies. 
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C and C+.
+- 💞️ ........
 - 📫 abhishek130singh3@gmail.com 
 
 <!---
